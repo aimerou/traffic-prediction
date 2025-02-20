@@ -1,0 +1,110 @@
+[
+    {
+      "id": "r1",
+      "startNode": "A",
+      "endNode": "B",
+      "distance": 5,
+      "currentSpeed": 30,
+      "maxSpeed": 50,
+      "startLat": 48.856,
+      "startLng": 2.352,
+      "endLat": 48.860,
+      "endLng": 2.347
+    },
+    {
+      "id": "r2",
+      "startNode": "B",
+      "endNode": "C",
+      "distance": 3,
+      "currentSpeed": 40,
+      "maxSpeed": 50,
+      "startLat": 48.860,
+      "startLng": 2.347,
+      "endLat": 48.865,
+      "endLng": 2.342
+    },
+    {
+      "id": "r3",
+      "startNode": "A",
+      "endNode": "D",
+      "distance": 4,
+      "currentSpeed": 15,
+      "maxSpeed": 50,
+      "startLat": 48.856,
+      "startLng": 2.352,
+      "endLat": 48.854,
+      "endLng": 2.345
+    },
+    {
+      "id": "r4",
+      "startNode": "D",
+      "endNode": "C",
+      "distance": 6,
+      "currentSpeed": 45,
+      "maxSpeed": 50,
+      "startLat": 48.854,
+      "startLng": 2.345,
+      "endLat": 48.865,
+      "endLng": 2.342
+    },
+    {
+      "id": "r5",
+      "startNode": "B",
+      "endNode": "E",
+      "distance": 4,
+      "currentSpeed": 50,
+      "maxSpeed": 50,
+      "startLat": 48.860,
+      "startLng": 2.347,
+      "endLat": 48.863,
+      "endLng": 2.338
+    },
+    {
+      "id": "r6",
+      "startNode": "E",
+      "endNode": "C",
+      "distance": 2,
+      "currentSpeed": 35,
+      "maxSpeed": 50,
+      "startLat": 48.863,
+      "startLng": 2.338,
+      "endLat": 48.865,
+      "endLng": 2.342
+    },
+    {
+      "id": "r7",
+      "startNode": "D",
+      "endNode": "F",
+      "distance": 5.5,
+      "currentSpeed": 25,
+      "maxSpeed": 40,
+      "startLat": 48.854,
+      "startLng": 2.345,
+      "endLat": 48.850,
+      "endLng": 2.340
+    },
+    {
+      "id": "r8",
+      "startNode": "F",
+      "endNode": "G",
+      "distance": 3.2,
+      "currentSpeed": 36,
+      "maxSpeed": 45,
+      "startLat": 48.850,
+      "startLng": 2.340,
+      "endLat": 48.848,
+      "endLng": 2.352
+    },
+    {
+      "id": "r9",
+      "startNode": "G",
+      "endNode": "C",
+      "distance": 7.1,
+      "currentSpeed": 42,
+      "maxSpeed": 60,
+      "startLat": 48.848,
+      "startLng": 2.352,
+      "endLat": 48.865,
+      "endLng": 2.342
+    }
+]
